@@ -31,7 +31,7 @@ const Navigation = () => {
             <Link to="/" className="text-gray-700 hover:text-purple-700 hover:underline underline-offset-4 transition-colors">FAQs</Link>
             
             <Button className="bg-gradient-to-r from-purple-600 to-blue-600 text-white rounded-full hover:shadow-md transition-all">
-              Get Started
+             <Link to="www.google.com"> Get Started</Link>
             </Button>
           </div>
           
