@@ -9,14 +9,14 @@ const HeroSection = () => {
       <div className="max-w-4xl mx-auto text-center">
         <div className="space-y-6">
           <h1 className="text-4xl md:text-5xl lg:text-6xl font-serif font-bold mb-6 text-purple-900 leading-tight animate-fade-in">
-            Navigate Your
+            Find Your Ideal
             <span className="bg-gradient-to-r from-purple-600 to-blue-600 bg-clip-text text-transparent"> Career Path</span>
             <br />
-            With Confidence
+            With Expert Guidance
           </h1>
           
           <p className="text-lg md:text-xl text-gray-700 max-w-2xl mx-auto">
-            Personalized career guidance to help you discover your potential and find your perfect professional journey.
+            AI-powered career recommendations based on your subjects and grades, or connect with professional counsellors for personalized advice.
           </p>
           
           <div className="mt-8 space-x-4">
@@ -31,20 +31,20 @@ const HeroSection = () => {
       </div>
       
       <div className="max-w-2xl mx-auto mt-16 px-4 py-8 bg-white/80 backdrop-blur-sm rounded-2xl shadow-xl border border-purple-100">
-        <h2 className="text-2xl font-serif font-semibold mb-6 text-center text-purple-800">Why Choose Our Platform</h2>
+        <h2 className="text-2xl font-serif font-semibold mb-6 text-center text-purple-800">How Our Platform Works</h2>
         
         <div className="grid md:grid-cols-2 gap-6 text-center">
           <div className="p-4 hover:bg-purple-50 rounded-xl transition-colors">
-            <h3 className="font-medium text-purple-700 mb-2">Professional Assessments</h3>
+            <h3 className="font-medium text-purple-700 mb-2">AI Career Recommendations</h3>
             <p className="text-sm text-gray-600">
-              15 different assessment types designed to identify your strengths and weaknesses with actionable insights.
+              Enter your favorite subjects or grades and get AI-powered career path suggestions tailored to your academic strengths.
             </p>
           </div>
           
           <div className="p-4 hover:bg-blue-50 rounded-xl transition-colors">
-            <h3 className="font-medium text-blue-700 mb-2">AI-Powered Recommendations</h3>
+            <h3 className="font-medium text-blue-700 mb-2">Expert Counsellor Advice</h3>
             <p className="text-sm text-gray-600">
-              Leveraging 30 years of data to match your profile with career paths where you'll excel and find satisfaction.
+              Connect with experienced career counsellors who can provide personalized guidance and insights for your career journey.
             </p>
           </div>
         </div>
