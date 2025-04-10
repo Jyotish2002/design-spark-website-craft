@@ -7,7 +7,7 @@ import ContactForm from '@/components/ContactForm';
 
 const Index = () => {
   return (
-    <div className="min-h-screen flex flex-col max-w-4xl mx-auto border-x border-gray-200">
+    <div className="min-h-screen flex flex-col max-w-4xl mx-auto border-x border-gray-200 shadow-xl bg-white">
       <Navigation />
       <main className="flex-1">
         <HeroSection />
