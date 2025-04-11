@@ -1,0 +1,10 @@
+{
+  "/not-found": "app/not-found.js",
+  "/page": "app/page.js",
+  "/login/page": "app/login/page.js",
+  "/signup/page": "app/signup/page.js",
+  "/student-dashboard/page": "app/student-dashboard/page.js",
+  "/api/auth/login/route": "app/api/auth/login/route.js",
+  "/api/auth/signup/route": "app/api/auth/signup/route.js",
+  "/api/auth/verify-otp/route": "app/api/auth/verify-otp/route.js"
+}
